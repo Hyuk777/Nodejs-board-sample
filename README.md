@@ -2,6 +2,6 @@
 
 before install project
 
-  1.install mongdb
-  2.create 'mydb' database
-  3.start mongod
+1. install mongodb
+2. create 'board' database
+3. start mongod
