@@ -9,5 +9,5 @@ logs
 *.log
 npm-debug.log*
 
-#package-lock.json
+#package.json Lock file
 package-lock.json
